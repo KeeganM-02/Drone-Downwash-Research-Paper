@@ -1,0 +1,22 @@
+Measurement,Factor,F,p,Significant
+Coverage_Rate,Height (1-way),2.804088798497656,0.071932043,
+Coverage_Rate,Canopy_Position (1-way),3.2260213787886483,0.049737181,*
+Coverage_Rate,C(Height),3.7246375853730265,0.033865646310013195,*
+Coverage_Rate,C(Canopy_Position),4.210454374143014,0.022744223,*
+Coverage_Rate,C(Height):C(Canopy_Position),2.8417971252006087,0.038082955565692765,*
+Coverage_Rate,Residual,,,
+Coverage_Density,Height (1-way),5.393439231995071,0.008226015,*
+Coverage_Density,Canopy_Position (1-way),1.4805041014782203,0.2391543208791984,
+Coverage_Density,C(Height),5.573099493953706,0.007787619,*
+Coverage_Density,C(Canopy_Position),1.7961001989909975,0.1804976332200384,
+Coverage_Density,C(Height):C(Canopy_Position),0.9517142474123054,0.44565112584993105,
+Coverage_Density,Residual,,,
+Droplet_Count,Height (1-way),5.392788116544277,0.008230278,*
+Droplet_Count,Canopy_Position (1-way),1.522168824015842,0.2300333415845474,
+Droplet_Count,C(Height),5.584051344717966,0.00772278,*
+Droplet_Count,C(Canopy_Position),1.847029918291684,0.1723398272295533,
+Droplet_Count,C(Height):C(Canopy_Position),0.948883113,0.4471768977490824,
+Droplet_Count,Residual,,,
+Coverage_Rate,Canopy_Position (Backpack),4.1319362227667495,0.037202265094730236,*
+Coverage_Density,Canopy_Position (Backpack),1.1615822466066021,0.33960980728668405,
+Droplet_Count,Canopy_Position (Backpack),1.156920672247561,0.34098375685197846,

@@ -1,0 +1,4 @@
+Measurement,Grouping,mean,std,count
+Coverage_Rate,Aggregate(B+T),10.875666666666667,15.28369355189495,18.0
+Coverage_Density,Aggregate(B+T),0.46849111111111114,0.5192365132620925,18.0
+Droplet_Count,Aggregate(B+T),900.7777777777778,1007.2800624369603,18.0

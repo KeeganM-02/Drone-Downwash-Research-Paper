@@ -1,0 +1,10 @@
+Measurement,Grouping,Canopy_Position,mean,std,count
+Coverage_Rate,Aggregate(B+T),Top,23.264833333333332,21.798872277406154,6
+Coverage_Rate,Aggregate(B+T),Mid,6.240666666666667,4.68737029331657,6
+Coverage_Rate,Aggregate(B+T),Bot,3.1214999999999997,3.863415160191822,6
+Coverage_Density,Aggregate(B+T),Top,0.5366566666666667,0.31639729200273925,6
+Coverage_Density,Aggregate(B+T),Mid,0.652895,0.8122918033994927,6
+Coverage_Density,Aggregate(B+T),Bot,0.21592166666666668,0.18386375057815682,6
+Droplet_Count,Aggregate(B+T),Top,1022.5,600.766427157843,6
+Droplet_Count,Aggregate(B+T),Mid,1265.3333333333333,1582.565849077588,6
+Droplet_Count,Aggregate(B+T),Bot,414.5,351.0411656771895,6

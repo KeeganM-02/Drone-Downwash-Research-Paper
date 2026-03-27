@@ -1,0 +1,20 @@
+                Height      CV (%)
+0                 10ft  177.931560
+1                 15ft  102.002912
+2                  5ft  116.246185
+3  Backpack Sprayer(B)  111.599257
+4  Backpack Sprayer(T)  129.948057
+Coverage Density
+                Height      CV (%)
+0                 10ft  105.732185
+1                 15ft   90.375782
+2                  5ft   44.579206
+3  Backpack Sprayer(B)  104.164809
+4  Backpack Sprayer(T)   84.423768
+Droplet Count
+                Height      CV (%)
+0                 10ft  106.174526
+1                 15ft   90.291620
+2                  5ft   44.484913
+3  Backpack Sprayer(B)  104.071895
+4  Backpack Sprayer(T)   85.657303

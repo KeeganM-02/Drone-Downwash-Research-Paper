@@ -1,0 +1,7 @@
+Measurement,Grouping,Height,mean,std,count
+Coverage_Rate,Height,Backpack Sprayer(B),6.3583333333333325,7.095852750022368,9
+Coverage_Rate,Height,Backpack Sprayer(T),15.393,20.002904439105837,9
+Coverage_Density,Height,Backpack Sprayer(B),0.21112666666666666,0.21991968823868407,9
+Coverage_Density,Height,Backpack Sprayer(T),0.7258555555555556,0.6127946106794493,9
+Droplet_Count,Height,Backpack Sprayer(B),406.6666666666667,423.22570810384383,9
+Droplet_Count,Height,Backpack Sprayer(T),1394.888888888889,1194.824196738211,9

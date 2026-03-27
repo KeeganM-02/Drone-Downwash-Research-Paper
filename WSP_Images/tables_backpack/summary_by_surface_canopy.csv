@@ -1,0 +1,19 @@
+Measurement,Grouping,Height,Canopy_Position,mean,std,count
+Coverage_Rate,Surface×Canopy_Position,Backpack Sprayer(B),Top,10.915333333333335,9.436703891366589,3
+Coverage_Rate,Surface×Canopy_Position,Backpack Sprayer(B),Mid,4.203666666666667,5.670419502411909,3
+Coverage_Rate,Surface×Canopy_Position,Backpack Sprayer(B),Bot,3.9559999999999995,5.781816583047234,3
+Coverage_Rate,Surface×Canopy_Position,Backpack Sprayer(T),Top,35.614333333333335,25.325782324211296,3
+Coverage_Rate,Surface×Canopy_Position,Backpack Sprayer(T),Mid,8.277666666666667,3.213539533494701,3
+Coverage_Rate,Surface×Canopy_Position,Backpack Sprayer(T),Bot,2.2870000000000004,1.3402865365286631,3
+Coverage_Density,Surface×Canopy_Position,Backpack Sprayer(B),Top,0.35237999999999997,0.29418224470555665,3
+Coverage_Density,Surface×Canopy_Position,Backpack Sprayer(B),Mid,0.17793333333333336,0.22026219519775367,3
+Coverage_Density,Surface×Canopy_Position,Backpack Sprayer(B),Bot,0.10306666666666668,0.09645284668340967,3
+Coverage_Density,Surface×Canopy_Position,Backpack Sprayer(T),Top,0.7209333333333333,0.24869912189899937,3
+Coverage_Density,Surface×Canopy_Position,Backpack Sprayer(T),Mid,1.1278566666666667,0.961386366469451,3
+Coverage_Density,Surface×Canopy_Position,Backpack Sprayer(T),Bot,0.32877666666666666,0.19236109854472483,3
+Droplet_Count,Surface×Canopy_Position,Backpack Sprayer(B),Top,678.6666666666666,567.027630132195,3
+Droplet_Count,Surface×Canopy_Position,Backpack Sprayer(B),Mid,342.3333333333333,423.1623014084943,3
+Droplet_Count,Surface×Canopy_Position,Backpack Sprayer(B),Bot,199.0,184.44782460088814,3
+Droplet_Count,Surface×Canopy_Position,Backpack Sprayer(T),Top,1366.3333333333333,475.5169117216898,3
+Droplet_Count,Surface×Canopy_Position,Backpack Sprayer(T),Mid,2188.3333333333335,1877.8800103662995,3
+Droplet_Count,Surface×Canopy_Position,Backpack Sprayer(T),Bot,630.0,367.0599406091599,3
