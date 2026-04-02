@@ -1,0 +1,64 @@
+Height,Plant,Canopy_Position,Droplet_Count,Coverage_Rate,Coverage_Density,Deposition,Card_Area,DebugOverlay
+5ft,P1,Bot,26,0.079,0.01353,1.528,1922.326,5ft\P1_Bot_Scan_overlay.png
+5ft,P1,Mid,32,0.042,0.01638,0.824,1953.159,5ft\P1_Mid_Scan_overlay.png
+5ft,P1,Top,52,0.425,0.02703,8.171,1923.824,5ft\P1_Top_Scan_overlay.png
+5ft,P2,Bot,23,0.056,0.01182,1.087,1945.089,5ft\P2_Bot_Scan_overlay.png
+5ft,P2,Mid,17,0.067,0.00886,1.289,1918.647,5ft\P2_Mid_Scan_overlay.png
+5ft,P2,Top,42,0.078,0.02151,1.513,1952.265,5ft\P2_Top_Scan_overlay.png
+5ft,P3,Bot,30,0.1,0.01554,1.932,1929.966,5ft\P3_Bot_Scan_overlay.png
+5ft,P3,Mid,63,0.204,0.03294,3.905,1912.333,5ft\P3_Mid_Scan_overlay.png
+5ft,P3,Top,51,0.132,0.02658,2.524,1918.424,5ft\P3_Top_Scan_overlay.png
+5ft,P4,Bot,19,0.038,0.00975,0.745,1949.679,5ft\P4_Bot_Scan_overlay.png
+5ft,P4,Mid,64,0.678,0.03265,13.287,1960.066,5ft\P4_Mid_Scan_overlay.png
+5ft,P4,Top,34,0.125,0.01724,2.47,1972.532,5ft\P4_Top_Scan_overlay.png
+5ft,P5,Bot,20,0.05,0.01046,0.959,1912.152,5ft\P5_Bot_Scan_overlay.png
+5ft,P5,Mid,29,0.075,0.01475,1.473,1965.903,5ft\P5_Mid_Scan_overlay.png
+5ft,P5,Top,25,0.108,0.01308,2.062,1911.718,5ft\P5_Top_Scan_overlay.png
+10ft,P1,Bot,23,0.097,0.01172,1.896,1962.552,10ft\P1_Bot_Scan_overlay.png
+10ft,P1,Mid,31,0.088,0.01604,1.704,1932.364,10ft\P1_Mid_Scan_overlay.png
+10ft,P1,Top,114,1.521,0.05885,29.47,1937.252,10ft\P1_Top_Scan_overlay.png
+10ft,P2,Bot,20,0.13,0.01024,2.53,1953.34,10ft\P2_Bot_Scan_overlay.png
+10ft,P2,Mid,55,0.32,0.02854,6.169,1927.093,10ft\P2_Mid_Scan_overlay.png
+10ft,P2,Top,49,0.666,0.02513,12.979,1949.906,10ft\P2_Top_Scan_overlay.png
+10ft,P3,Bot,18,0.087,0.00934,1.668,1927.183,10ft\P3_Bot_Scan_overlay.png
+10ft,P3,Mid,140,2.902,0.07229,56.199,1936.666,10ft\P3_Mid_Scan_overlay.png
+10ft,P3,Top,292,11.458,0.14959,223.67,1952.064,10ft\P3_Top_Scan_overlay.png
+10ft,P4,Bot,27,0.089,0.0138,1.747,1957.204,10ft\P4_Bot_Scan_overlay.png
+10ft,P4,Mid,43,0.508,0.02228,9.802,1929.765,10ft\P4_Mid_Scan_overlay.png
+10ft,P4,Top,304,7.72,0.15528,151.134,1957.709,10ft\P4_Top_Scan_overlay.png
+10ft,P5,Bot,57,0.304,0.02951,5.864,1931.398,10ft\P5_Bot_Scan_overlay.png
+10ft,P5,Mid,47,0.382,0.02424,7.414,1938.883,10ft\P5_Mid_Scan_overlay.png
+10ft,P5,Top,86,1.639,0.04384,32.159,1961.485,10ft\P5_Top_Scan_overlay.png
+15ft,P1,Bot,57,0.554,0.02929,10.78,1946.297,15ft\P1_Bot_Scan_overlay.png
+15ft,P1,Mid,43,0.144,0.02243,2.763,1916.715,15ft\P1_Mid_Scan_overlay.png
+15ft,P1,Top,41,0.048,0.02082,0.952,1969.562,15ft\P1_Top_Scan_overlay.png
+15ft,P2,Bot,237,1.089,0.12367,20.877,1916.356,15ft\P2_Bot_Scan_overlay.png
+15ft,P2,Mid,464,2.554,0.24085,49.206,1926.548,15ft\P2_Mid_Scan_overlay.png
+15ft,P2,Top,425,3.149,0.21598,61.956,1967.752,15ft\P2_Top_Scan_overlay.png
+15ft,P3,Bot,167,0.505,0.0858,9.82,1946.417,15ft\P3_Bot_Scan_overlay.png
+15ft,P3,Mid,75,0.145,0.03884,2.799,1930.939,15ft\P3_Mid_Scan_overlay.png
+15ft,P3,Top,44,0.344,0.02249,6.736,1956.449,15ft\P3_Top_Scan_overlay.png
+15ft,P4,Bot,72,0.247,0.03739,4.759,1925.819,15ft\P4_Bot_Scan_overlay.png
+15ft,P4,Mid,150,0.655,0.07598,12.934,1974.234,15ft\P4_Mid_Scan_overlay.png
+15ft,P4,Top,124,0.949,0.06366,18.485,1947.865,15ft\P4_Top_Scan_overlay.png
+15ft,P5,Bot,41,0.392,0.02107,7.623,1945.907,15ft\P5_Bot_Scan_overlay.png
+15ft,P5,Mid,157,0.976,0.08095,18.929,1939.401,15ft\P5_Mid_Scan(G)_overlay.png
+15ft,P5,Top,124,1.552,0.06319,30.443,1962.195,15ft\P5_Top_Scan(G)_overlay.png
+Backpack Sprayer(B),P1,Bot,403,1.229,0.21001,23.584,1918.973,Backpack Sprayer\Bottoms of Leaves\P1_Bot_Scan_overlay.png
+Backpack Sprayer(T),P1,Bot,919,1.711,0.48166,32.654,1908.002,Backpack Sprayer\Tops of Leaves\P1_Bot_Scan_overlay.png
+Backpack Sprayer(B),P1,Mid,828,10.667,0.43069,205.08,1922.491,Backpack Sprayer\Bottoms of Leaves\P1_Mid_Scan_overlay.png
+Backpack Sprayer(T),P1,Mid,1305,7.109,0.6784,136.758,1923.632,Backpack Sprayer\Tops of Leaves\P1_Mid_Scan_overlay.png
+Backpack Sprayer(B),P1,Top,933,17.499,0.48768,334.785,1913.131,Backpack Sprayer\Bottoms of Leaves\P1_Top_Scan_overlay.png
+Backpack Sprayer(T),P1,Top,971,64.149,0.53038,1174.409,1830.76,Backpack Sprayer\Tops of Leaves\P1_Top_Scan_overlay.png
+Backpack Sprayer(B),P2,Bot,150,10.597,0.07653,207.707,1960.053,Backpack Sprayer\Bottoms of Leaves\P2_Bot_Scan_overlay.png
+Backpack Sprayer(T),P2,Bot,754,3.819,0.39188,73.477,1924.046,Backpack Sprayer\Tops of Leaves\P2_Bot_Scan_overlay.png
+Backpack Sprayer(B),P2,Mid,146,1.879,0.07607,36.072,1919.261,Backpack Sprayer\Bottoms of Leaves\P2_Mid_Scan_overlay.png
+Backpack Sprayer(T),P2,Mid,4345,5.812,2.23165,113.157,1946.993,Backpack Sprayer\Tops of Leaves\P2_Mid_Scan_overlay.png
+Backpack Sprayer(B),P2,Top,1074,15.143,0.55457,293.257,1936.634,Backpack Sprayer\Bottoms of Leaves\P2_Top_Scan_overlay.png
+Backpack Sprayer(T),P2,Top,1894,26.89,1.00227,508.137,1889.708,Backpack Sprayer\Tops of Leaves\P2_Top_Scan_overlay.png
+Backpack Sprayer(B),P3,Bot,44,0.042,0.02266,0.807,1942.068,Backpack Sprayer\Bottoms of Leaves\P3_Bot_Scan_overlay.png
+Backpack Sprayer(T),P3,Bot,217,1.331,0.11279,25.607,1923.993,Backpack Sprayer\Tops of Leaves\P3_Bot_Scan_overlay.png
+Backpack Sprayer(B),P3,Mid,53,0.065,0.02704,1.265,1960.179,Backpack Sprayer\Bottoms of Leaves\P3_Mid_Scan_overlay.png
+Backpack Sprayer(T),P3,Mid,915,11.912,0.47352,230.187,1932.328,Backpack Sprayer\Tops of Leaves\P3_Mid_Scan_overlay.png
+Backpack Sprayer(B),P3,Top,29,0.104,0.01489,2.032,1947.392,Backpack Sprayer\Bottoms of Leaves\P3_Top_Scan_overlay.png
+Backpack Sprayer(T),P3,Top,1234,15.804,0.63015,309.493,1958.274,Backpack Sprayer\Tops of Leaves\P3_Top_Scan_overlay.png

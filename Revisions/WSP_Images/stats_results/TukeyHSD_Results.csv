@@ -1,0 +1,10 @@
+group1,group2,meandiff,p-adj,lower,upper,reject,Measurement,Factor
+Bot,Mid,0.3949,0.8471,-1.3499,2.1397,FALSE,Coverage_Rate,Canopy_Position
+Bot,Top,1.7398,0.0508,-0.005,3.4846,FALSE,Coverage_Rate,Canopy_Position
+Mid,Top,1.3449,0.1592,-0.3999,3.0897,FALSE,Coverage_Rate,Canopy_Position
+10ft,15ft,0.0314,0.1893,-0.0115,0.0744,FALSE,Coverage_Density,Height
+10ft,5ft,-0.0266,0.3001,-0.0695,0.0164,FALSE,Coverage_Density,Height
+15ft,5ft,-0.058,0.0058,-0.101,-0.0151,TRUE,Coverage_Density,Height
+10ft,15ft,61,0.1914,-22.6339,144.6339,FALSE,Droplet_Count,Height
+10ft,5ft,-51.9333,0.2972,-135.5672,31.7006,FALSE,Droplet_Count,Height
+15ft,5ft,-112.9333,0.0058,-196.5672,-29.2994,TRUE,Droplet_Count,Height

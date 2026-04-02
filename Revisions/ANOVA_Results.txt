@@ -1,0 +1,85 @@
+================================================================================
+ANALYSIS FOR: Coverage_Rate
+================================================================================
+
+Height effect on Coverage_Rate: F = 2.804, p = 0.0719
+
+Canopy Position effect on Coverage_Rate: F = 3.226, p = 0.0497
+
+Tukey HSD (Canopy Position):
+Multiple Comparison of Means - Tukey HSD, FWER=0.05
+===================================================
+group1 group2 meandiff p-adj   lower  upper  reject
+---------------------------------------------------
+   Bot    Mid   0.3949 0.8471 -1.3499 2.1397  False
+   Bot    Top   1.7398 0.0508  -0.005 3.4846  False
+   Mid    Top   1.3449 0.1592 -0.3999 3.0897  False
+---------------------------------------------------
+
+Two-way ANOVA (Coverage_Rate ~ Height � Canopy_Position):
+
+                                  sum_sq    df         F    PR(>F)
+C(Height)                      22.078567   2.0  3.724638  0.033866
+C(Canopy_Position)             24.958347   2.0  4.210454  0.022744
+C(Height):C(Canopy_Position)   33.690691   4.0  2.841797  0.038083
+Residual                      106.698756  36.0       NaN       NaN
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ANALYSIS FOR: Coverage_Density
+================================================================================
+
+Height effect on Coverage_Density: F = 5.393, p = 0.0082
+
+Tukey HSD (Height):
+Multiple Comparison of Means - Tukey HSD, FWER=0.05 
+====================================================
+group1 group2 meandiff p-adj   lower   upper  reject
+----------------------------------------------------
+  10ft   15ft   0.0314 0.1893 -0.0115  0.0744  False
+  10ft    5ft  -0.0266 0.3001 -0.0695  0.0164  False
+  15ft    5ft   -0.058 0.0058  -0.101 -0.0151   True
+----------------------------------------------------
+
+Canopy Position effect on Coverage_Density: F = 1.481, p = 0.2392
+
+Two-way ANOVA (Coverage_Density ~ Height � Canopy_Position):
+
+                                sum_sq    df         F    PR(>F)
+C(Height)                     0.025306   2.0  5.573099  0.007788
+C(Canopy_Position)            0.008156   2.0  1.796100  0.180498
+C(Height):C(Canopy_Position)  0.008643   4.0  0.951714  0.445651
+Residual                      0.081734  36.0       NaN       NaN
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ANALYSIS FOR: Droplet_Count
+================================================================================
+
+Height effect on Droplet_Count: F = 5.393, p = 0.0082
+
+Tukey HSD (Height):
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05   
+========================================================
+group1 group2  meandiff p-adj    lower    upper   reject
+--------------------------------------------------------
+  10ft   15ft      61.0 0.1914  -22.6339 144.6339  False
+  10ft    5ft  -51.9333 0.2972 -135.5672  31.7006  False
+  15ft    5ft -112.9333 0.0058 -196.5672 -29.2994   True
+--------------------------------------------------------
+
+Canopy Position effect on Droplet_Count: F = 1.522, p = 0.2300
+
+Two-way ANOVA (Droplet_Count ~ Height � Canopy_Position):
+
+                                     sum_sq    df         F    PR(>F)
+C(Height)                      95860.044444   2.0  5.584051  0.007723
+C(Canopy_Position)             31707.511111   2.0  1.847030  0.172340
+C(Height):C(Canopy_Position)   32578.488889   4.0  0.948883  0.447177
+Residual                      309001.600000  36.0       NaN       NaN
+
+--------------------------------------------------------------------------------
