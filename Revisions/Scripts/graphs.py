@@ -27,10 +27,10 @@ plt.rcParams.update({
 df = pd.read_csv("wsp_analysis_results.csv")
 
 # === Filter for drone heights only ===
-df = df[df['Height'].isin(['5ft', '10ft', '15ft'])]
+df = df[df['Height'].isin(['1.524m', '3.048m', '4.572m'])]
 
 # === Ensure correct order for Height ===
-height_order = ['5ft', '10ft', '15ft']
+height_order = ['1.524m', '3.048m', '4.572m']
 df['Height'] = pd.Categorical(df['Height'], categories=height_order, ordered=True)
 
 # === Ensure correct order for Canopy Position ===
@@ -38,7 +38,7 @@ canopy_order = ['Top', 'Mid', 'Bot']  # adjust if you prefer Top→Bottom visual
 df['Canopy_Position'] = pd.Categorical(df['Canopy_Position'], categories=canopy_order, ordered=True)
 
 # === Create output folders ===
-output_dir = "plots_2"
+output_dir = "plots_rev"
 os.makedirs(output_dir, exist_ok=True)
 
 tables_dir = "tables"

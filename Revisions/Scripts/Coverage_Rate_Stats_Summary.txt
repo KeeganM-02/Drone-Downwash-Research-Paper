@@ -1,0 +1,50 @@
+Coverage Rate Statistical Analysis Summary
+==================================================
+
+Data loaded successfully!
+Total records: 63
+Heights: ['1.524m', '3.048m', '4.572m', 'Backpack Sprayer(B)', 'Backpack Sprayer(T)']
+Canopy positions: ['Bot', 'Mid', 'Top']
+
+============================================================
+
+=== DRONE HEIGHT COMPARISONS ===
+
+--- Comparing 1.524m vs 4.572m ---
+  1.524m: Mean = 0.150%, SD = 0.175% (n=15)
+  4.572m: Mean = 0.887%, SD = 0.905% (n=15)
+  Mean difference: 0.736%
+  95% CI: [0.229%, 1.243%]
+  Cohen's d: 1.130 (large effect)
+  p-value: 0.004
+
+--- Comparing 1.524m vs 3.048m ---
+  1.524m: Mean = 0.150%, SD = 0.175% (n=15)
+  3.048m: Mean = 1.861%, SD = 3.311% (n=15)
+  Mean difference: 1.710%
+  95% CI: [-0.125%, 3.545%]
+  Cohen's d: 0.730 (medium effect)
+  p-value: 0.056
+
+--- Comparing 3.048m vs 4.572m ---
+  3.048m: Mean = 1.861%, SD = 3.311% (n=15)
+  4.572m: Mean = 0.887%, SD = 0.905% (n=15)
+  Mean difference: -0.974%
+  95% CI: [-2.852%, 0.904%]
+  Cohen's d: -0.401 (small effect)
+  p-value: 0.281
+
+=== CANOPY POSITION COMPARISONS (Drone Data) ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 1.994%, SD = 3.276% (n=15)
+  Bottom: Mean = 0.254%, SD = 0.286% (n=15)
+  Mean difference (Top - Bottom): 1.740%
+  95% CI: [-0.079%, 3.558%]
+  Cohen's d: 0.748 (medium effect)
+  p-value: 0.050
+
+=== SUMMARY FOR YOUR PAPER ===
+
+1.524m vs 4.572m:
+  Mean difference: 0.74% (95% CI: 0.23% to 1.24%, Cohen's d = 1.13, p = 0.004)
