@@ -1,0 +1,192 @@
+Comprehensive Statistical Analysis Summary
+======================================================================
+
+Data loaded successfully!
+Total records: 63
+Heights: ['1.524m', '3.048m', '4.572m', 'Backpack Sprayer(B)', 'Backpack Sprayer(T)']
+Canopy positions: ['Bot', 'Mid', 'Top']
+
+======================================================================
+
+=== DRONE HEIGHT COMPARISONS: Coverage Rate (%) ===
+
+--- Comparing 1.524m vs 4.572m ---
+  1.524m: Mean = 0.1505, SD = 0.1749 (n=15)
+  4.572m: Mean = 0.8869, SD = 0.9046 (n=15)
+  Mean difference: 0.7364
+  95% CI: [0.2295, 1.2433]
+  Cohen's d: 1.130 (large effect)
+  p-value: 0.004
+
+--- Comparing 1.524m vs 3.048m ---
+  1.524m: Mean = 0.1505, SD = 0.1749 (n=15)
+  3.048m: Mean = 1.8607, SD = 3.3108 (n=15)
+  Mean difference: 1.7103
+  95% CI: [-0.1248, 3.5453]
+  Cohen's d: 0.730 (medium effect)
+  p-value: 0.056
+
+--- Comparing 3.048m vs 4.572m ---
+  3.048m: Mean = 1.8607, SD = 3.3108 (n=15)
+  4.572m: Mean = 0.8869, SD = 0.9046 (n=15)
+  Mean difference: -0.9739
+  95% CI: [-2.8518, 0.9040]
+  Cohen's d: -0.401 (small effect)
+  p-value: 0.281
+
+=== CANOPY POSITION COMPARISONS: Coverage Rate (%) (Drone Data) ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 1.9943, SD = 3.2760 (n=15)
+  Bottom: Mean = 0.2545, SD = 0.2865 (n=15)
+  Mean difference (Top - Bottom): 1.7398
+  95% CI: [-0.0787, 3.5583]
+  Cohen's d: 0.748 (medium effect)
+  p-value: 0.050
+
+--- Top vs Middle Canopy Position ---
+  Top: Mean = 1.9943, SD = 3.2760 (n=15)
+  Middle: Mean = 0.6493, SD = 0.8892 (n=15)
+  Mean difference (Top - Middle): 1.3449
+  95% CI: [-0.5126, 3.2025]
+  Cohen's d: 0.560 (medium effect)
+  p-value: 0.136
+
+--- Middle vs Bottom Canopy Position ---
+  Middle: Mean = 0.6493, SD = 0.8892 (n=15)
+  Bottom: Mean = 0.2545, SD = 0.2865 (n=15)
+  Mean difference (Middle - Bottom): 0.3949
+  95% CI: [-0.1144, 0.9041]
+  Cohen's d: 0.598 (medium effect)
+  p-value: 0.113
+
+======================================================================
+
+=== DRONE HEIGHT COMPARISONS: Coverage Density (droplets/mm²) ===
+
+--- Comparing 1.524m vs 4.572m ---
+  1.524m: Mean = 0.0181, SD = 0.0081 (n=15)
+  4.572m: Mean = 0.0762, SD = 0.0688 (n=15)
+  Mean difference: 0.0580
+  95% CI: [0.0197, 0.0963]
+  Cohen's d: 1.184 (large effect)
+  p-value: 0.003
+
+--- Comparing 1.524m vs 3.048m ---
+  1.524m: Mean = 0.0181, SD = 0.0081 (n=15)
+  3.048m: Mean = 0.0447, SD = 0.0473 (n=15)
+  Mean difference: 0.0266
+  95% CI: [0.0001, 0.0530]
+  Cohen's d: 0.783 (medium effect)
+  p-value: 0.041
+
+--- Comparing 3.048m vs 4.572m ---
+  3.048m: Mean = 0.0447, SD = 0.0473 (n=15)
+  4.572m: Mean = 0.0762, SD = 0.0688 (n=15)
+  Mean difference: 0.0314
+  95% CI: [-0.0130, 0.0759]
+  Cohen's d: 0.533 (medium effect)
+  p-value: 0.156
+
+=== CANOPY POSITION COMPARISONS: Coverage Density (droplets/mm²) (Drone Data) ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 0.0616, SD = 0.0618 (n=15)
+  Bottom: Mean = 0.0289, SD = 0.0328 (n=15)
+  Mean difference (Top - Bottom): 0.0328
+  95% CI: [-0.0048, 0.0703]
+  Cohen's d: 0.662 (medium effect)
+  p-value: 0.081
+
+--- Top vs Middle Canopy Position ---
+  Top: Mean = 0.0616, SD = 0.0618 (n=15)
+  Middle: Mean = 0.0485, SD = 0.0580 (n=15)
+  Mean difference (Top - Middle): 0.0131
+  95% CI: [-0.0318, 0.0579]
+  Cohen's d: 0.218 (small effect)
+  p-value: 0.555
+
+--- Middle vs Bottom Canopy Position ---
+  Middle: Mean = 0.0485, SD = 0.0580 (n=15)
+  Bottom: Mean = 0.0289, SD = 0.0328 (n=15)
+  Mean difference (Middle - Bottom): 0.0197
+  95% CI: [-0.0160, 0.0553]
+  Cohen's d: 0.418 (small effect)
+  p-value: 0.262
+
+======================================================================
+
+=== DRONE HEIGHT COMPARISONS: Droplet Count ===
+
+--- Comparing 1.524m vs 4.572m ---
+  1.524m: Mean = 35.1333, SD = 15.6290 (n=15)
+  4.572m: Mean = 148.0667, SD = 133.6918 (n=15)
+  Mean difference: 112.9333
+  95% CI: [38.5787, 187.2880]
+  Cohen's d: 1.187 (large effect)
+  p-value: 0.003
+
+--- Comparing 1.524m vs 3.048m ---
+  1.524m: Mean = 35.1333, SD = 15.6290 (n=15)
+  3.048m: Mean = 87.0667, SD = 92.4426 (n=15)
+  Mean difference: 51.9333
+  95% CI: [0.2758, 103.5909]
+  Cohen's d: 0.783 (medium effect)
+  p-value: 0.041
+
+--- Comparing 3.048m vs 4.572m ---
+  3.048m: Mean = 87.0667, SD = 92.4426 (n=15)
+  4.572m: Mean = 148.0667, SD = 133.6918 (n=15)
+  Mean difference: 61.0000
+  95% CI: [-25.4520, 147.4520]
+  Cohen's d: 0.531 (medium effect)
+  p-value: 0.157
+
+=== CANOPY POSITION COMPARISONS: Droplet Count (Drone Data) ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 120.4667, SD = 121.4889 (n=15)
+  Bottom: Mean = 55.8000, SD = 62.9991 (n=15)
+  Mean difference (Top - Bottom): 64.6667
+  95% CI: [-8.8119, 138.1452]
+  Cohen's d: 0.668 (medium effect)
+  p-value: 0.078
+
+--- Top vs Middle Canopy Position ---
+  Top: Mean = 120.4667, SD = 121.4889 (n=15)
+  Middle: Mean = 94.0000, SD = 111.8807 (n=15)
+  Mean difference (Top - Middle): 26.4667
+  95% CI: [-60.9109, 113.8442]
+  Cohen's d: 0.227 (small effect)
+  p-value: 0.540
+
+--- Middle vs Bottom Canopy Position ---
+  Middle: Mean = 94.0000, SD = 111.8807 (n=15)
+  Bottom: Mean = 55.8000, SD = 62.9991 (n=15)
+  Mean difference (Middle - Bottom): 38.2000
+  95% CI: [-30.5417, 106.9417]
+  Cohen's d: 0.421 (small effect)
+  p-value: 0.259
+
+======================================================================
+
+
+=== SIGNIFICANT FINDINGS SUMMARY FOR YOUR PAPER ===
+
+--- Coverage Rate (%) ---
+1.524m vs 4.572m (Height):
+  Mean difference: 0.7364 (95% CI: 0.2295 to 1.2433, Cohen's d = 1.13, p = 0.004)
+Bottom vs Top (Canopy_Position):
+  Mean difference: 1.7398 (95% CI: -0.0787 to 3.5583, Cohen's d = 0.75, p = 0.050)
+
+--- Coverage Density (droplets/mm²) ---
+1.524m vs 4.572m (Height):
+  Mean difference: 0.0580 (95% CI: 0.0197 to 0.0963, Cohen's d = 1.18, p = 0.003)
+1.524m vs 3.048m (Height):
+  Mean difference: 0.0266 (95% CI: 0.0001 to 0.0530, Cohen's d = 0.78, p = 0.041)
+
+--- Droplet Count ---
+1.524m vs 4.572m (Height):
+  Mean difference: 112.9333 (95% CI: 38.5787 to 187.2880, Cohen's d = 1.19, p = 0.003)
+1.524m vs 3.048m (Height):
+  Mean difference: 51.9333 (95% CI: 0.2758 to 103.5909, Cohen's d = 0.78, p = 0.041)

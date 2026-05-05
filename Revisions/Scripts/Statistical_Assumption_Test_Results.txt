@@ -1,0 +1,24 @@
+================================================================================
+STATISTICAL ASSUMPTION TESTING FOR ANOVA
+================================================================================
+
+TEST 1: NORMALITY (Shapiro-Wilk Test)
+--------------------------------------------------------------------------------
+
+ALL DRONE DATA COMBINED:
+  n = 45
+  Shapiro-Wilk statistic = 0.4672
+  p-value = 0.000000
+  Status: NOT Normal
+
+================================================================================
+TEST 2: HOMOGENEITY OF VARIANCE (Levene's Test)
+--------------------------------------------------------------------------------
+Levene's Test Statistic = 2.7556
+p-value = 0.075077
+Status: Equal Variances
+
+Variances by Height:
+  1.524m: Variance = 0.030594, CV = 116.25%
+  3.048m: Variance = 10.961607, CV = 177.93%
+  4.572m: Variance = 0.818355, CV = 102.00%

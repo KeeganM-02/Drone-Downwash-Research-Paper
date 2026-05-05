@@ -1,0 +1,65 @@
+======================================================================
+BACKPACK SPRAYER TRIAL STATISTICAL ANALYSIS
+======================================================================
+
+Data loaded successfully!
+Total records: 63
+
+Backpack sprayer records: 18
+Heights: ['Backpack Sprayer(B)', 'Backpack Sprayer(T)']
+Canopy positions: ['Bot', 'Mid', 'Top']
+Sample sizes: n = {'Backpack Sprayer(B)': 9, 'Backpack Sprayer(T)': 9}
+
+======================================================================
+
+=== BACKPACK SPRAYER: Coverage Rate (%) BY CANOPY POSITION ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 23.2648, SD = 21.7989 (n=6)
+  Bottom: Mean = 3.1215, SD = 3.8634 (n=6)
+  Mean difference (Top - Bottom): 20.1433
+  95% CI: [-2.6830, 42.9697]
+  Cohen's d: 1.287 (large effect)
+  t-statistic: -2.229
+  p-value: 0.050
+
+======================================================================
+
+=== BACKPACK SPRAYER: Coverage Density (droplets/mm²) BY CANOPY POSITION ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 0.5367, SD = 0.3164 (n=6)
+  Bottom: Mean = 0.2159, SD = 0.1839 (n=6)
+  Mean difference (Top - Bottom): 0.3207
+  95% CI: [-0.0235, 0.6650]
+  Cohen's d: 1.240 (large effect)
+  t-statistic: -2.147
+  p-value: 0.057
+
+======================================================================
+
+=== BACKPACK SPRAYER: Droplet Count BY CANOPY POSITION ===
+
+--- Top vs Bottom Canopy Position ---
+  Top: Mean = 1022.5000, SD = 600.7664 (n=6)
+  Bottom: Mean = 414.5000, SD = 351.0412 (n=6)
+  Mean difference (Top - Bottom): 608.0000
+  95% CI: [-46.2324, 1262.2324]
+  Cohen's d: 1.236 (large effect)
+  t-statistic: -2.140
+  p-value: 0.058
+
+======================================================================
+
+
+=== BACKPACK SPRAYER FINDINGS SUMMARY FOR YOUR PAPER ===
+
+--- Coverage Rate (%) ---
+Bottom vs Top (Canopy_Position):
+  Mean difference: 20.1433 (95% CI: -2.6830 to 42.9697, Cohen's d = 1.29, p = 0.050)
+
+--- Coverage Density (droplets/mm²) ---
+No significant differences found between canopy positions.
+
+--- Droplet Count ---
+No significant differences found between canopy positions.
